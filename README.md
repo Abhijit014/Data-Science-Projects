@@ -10,7 +10,7 @@ The goal is to derive actionable insights from the data to inform decision-makin
 
 # Project 1: Swiggy Data Project
 
-Description: Swiggy has an average of 15.8 million monthly transacting customers for its food delivery business.e average monthly active food delivery restaurant partners on Swiggy's platform have also increased by 8.7% year-on-year, from 208,000 to 226,000.You are working in a data-driven role at Swiggy. You have a dataset of customers. As a data professional, you need to analyze the data, perform EDA (Exploratory Data Analysis) and visualization, and answer the following questions:
+Description: Swiggy, a leading food delivery platform in India, serves an average of 15.8 million monthly transacting customers. Its active restaurant partners have grown 8.7% year-on-year, from 208,000 to 226,000. As a data professional at Swiggy, your task is to analyze customer and restaurant data, perform exploratory data analysis (EDA), and create visualizations to uncover insights that will inform business decisions.
 
 1) What type of restaurant do the majority of customers order from?
 2) How many votes has each type of restaurant received from customers?
